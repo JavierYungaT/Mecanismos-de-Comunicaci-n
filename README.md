@@ -1,1 +1,1 @@
-# Mecanismos-de-Comunicaci-n
+# Mecanismos de Comunicación
